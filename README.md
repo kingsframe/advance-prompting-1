@@ -13,21 +13,21 @@ Sign up for a paid account here: https://platform.openai.com/. Once done, you ca
 ## 2. Check out the repo
 
 ```sh
-git clone https://github.com/dair-ai/maven-pe-for-llms-12.git
-cd maven-pe-for-llms-12
+git clone https://github.com/dair-ai/maven-pe-for-llms-13.git
+cd maven-pe-for-llms-13
 ```
 
 If you already have the repo, go into it and make sure you have the latest.
 
 ```sh
-cd maven-pe-for-llms-12
+cd maven-pe-for-llms-13
 git pull origin main
 ```
 
 If you have downloaded the zipped file instead, unzip it and go into the directory.
 
 ```sh
-cd maven-pe-for-llms-12
+cd maven-pe-for-llms-13
 ```
 
 ## 3. Setup the environment
@@ -71,6 +71,6 @@ pip install -r requirements.txt
 
 ## 5. Run the Preparation Exercise
 
-Run the prepare exercise notebook (found inside the [exercises folder](https://github.com/dair-ai/maven-pe-for-llms-12/blob/main/exercises/PE_for_LLMs_Preparation_Exercise.ipynb)). Before attempting the preparation exercise, add a `.env` file to your root folder and add your `OPENAI_API_KEY`.
+Run the prepare exercise notebook (found inside the [exercises folder](https://github.com/dair-ai/maven-pe-for-llms-13/blob/main/exercises/PE_for_LLMs_Preparation_Exercise.ipynb)). Before attempting the preparation exercise, add a `.env` file to your root folder and add your `OPENAI_API_KEY`.
 
 That's it! You're all set to start working on the notebooks and exercises.
