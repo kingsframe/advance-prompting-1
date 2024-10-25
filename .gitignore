@@ -14,3 +14,5 @@ demos/data/prompts.jsonl
 .DS_Store
 demos/.DS_Store
 demos/session-2/chromadb/
+node_modules
+
